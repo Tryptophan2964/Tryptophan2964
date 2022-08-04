@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating FOSS and infra for free and future use
 - 🌱 I’m currently learning how to create software firewalls
 - 💞️ I’m looking to collaborate on infrastructure in the Debian family of GNU/Linux
-- 📫 How to reach me Email: Djhlifewrecker@gmail.com
+- 📫 How to reach me Email: torridflux@protonmail.com
 
 <!---
 Tryptophan2964/Tryptophan2964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
